@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryannnnn_07" target="blank"><img src="https://img.shields.io/twitter/follow/aryannnnn_07?logo=twitter&style=for-the-badge" alt="aryannnnn_07" /></a> </p>
 
-- 🔭 I’m currentlyexploring more in **Programming, and Video Editing!**
+- 🔭 I’m currently exploring more in **Programming, and Video Editing!**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
