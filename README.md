@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I love to make content and also to code creative stuffs!!💻**
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<p align="right"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="380" width="380" ></img></p>
+<p align="right"><img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/b7b0e81603cc2b33d502bb8e6280c096/859/1428011701_wavesbyyuki_01.gif" height="380" width="380" ></img></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
