@@ -22,6 +22,7 @@
 - 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/aryan-sharma-07b474138/)
 
 - ⚡ Fun fact **Coffee is the seceret of my energy..**
+- ⚡ Code-Joke of the day 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="right"><img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/b7b0e81603cc2b33d502bb8e6280c096/859/1428011701_wavesbyyuki_01.gif" height="180" width="700" ></img></p>
 
