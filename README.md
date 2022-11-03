@@ -62,7 +62,7 @@
       
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ by Aryan Sharma</p>
+
 
 
 ![MasterHead](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
