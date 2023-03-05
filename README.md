@@ -15,13 +15,15 @@
 
 - 👯 I’m looking to collaborate on **Web Applications & AI/ML Based projects**
 
-- 🥇 ⚡ Fun fact I love to make content and also to code creative stuffs!!
+- 🥇 ⚡ Fun fact I love to make content and also to code creative stuffs!! 
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/aryan2909?tab=repositories)
 
 - 📫 How to reach me **aryansharma2909@gmail.com**
 
 - 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/aryan-sharma-07b474138/)
+
+- 🚀 [Click Here](https://aryan2909-portfolio.vercel.app) To know more about me!
 
 - ⚡ Fun fact **Coffee is the seceret of my energy..**
 
