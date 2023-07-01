@@ -40,13 +40,20 @@
 
 
 <br>
-<h3 align="left">📊 Github Stats</h3>
-<div align="center">
-   <p>
-  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=aryan2909&theme=redical">
-  </p>
- <br>
- <br>
+# 📊GitHub Stats :
+<p align="center">
+<a href="https://github.com/RyanWalker277">
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryan2909&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryan2909&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2909&theme=tokyonight"/>	
+</a>
+</p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=aryan2909&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   <br>
