@@ -10,6 +10,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+</img>
 
 - 🌱 I’m currently into **Dev**
 
